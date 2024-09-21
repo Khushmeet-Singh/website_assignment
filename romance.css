@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-image:url(https://png.pngtree.com/background/20240617/original/pngtree-3d-rendered-hearts-representing-love-between-a-couple-picture-image_9381148.jpg); 
+     background-size: cover; 
+} 
+
+.container{
+    background-color:crimson;
+    height: 120px;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    flex-wrap: wrap;
+  
+}
+#logo{
+    height: 100px;
+margin-right: auto;
+border-radius: 50%;
+
+}
+a{
+    
+    text-decoration: none;
+    margin-right: 50px;
+    color:rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.nav:hover{
+    text-decoration: underline;
+}
+img:hover{
+    opacity: 90%;
+}
+h2{
+    color:beige;
+    margin-right: 300px;
+    margin-left: 220px;
+    font-style:oblique;
+    font-family:cursive;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: rgb(222, 214, 214);
+    text-align: center;
+}
+
+.rom{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.romance{
+    height: 50vh;
+    
+
+}

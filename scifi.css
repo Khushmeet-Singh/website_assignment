@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-image:url(scifibg.jpg); 
+     background-size: cover; 
+} 
+
+.container{
+    background-color:rgba(0, 0, 0, 0.774);
+    height: 120px;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    flex-wrap: wrap;
+  
+}
+#logo{
+    height: 100px;
+margin-right: auto;
+border-radius: 50%;
+
+}
+img:hover{
+    opacity: 90%;
+}
+a{
+    
+    text-decoration: none;
+    margin-right: 50px;
+    color:azure;
+    font-weight: bolder;
+}
+.nav:hover{
+    text-decoration: underline;
+}
+h2{
+    color:azure;
+    margin-right: 300px;
+    margin-left: 220px;
+    font-style:oblique;
+    font-family:cursive;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: rgb(222, 214, 214);
+    text-align: center;
+}
+
+.scifi{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sci{
+    height: 50vh;
+    
+}

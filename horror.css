@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/003/555/301/small_2x/halloween-background-with-zombies-silhouette-in-the-graveyard-free-vector.jpg); 
+     background-size: cover; 
+} 
+
+.container{
+    background-color: #0b242ecd;
+    height: 120px;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    flex-wrap: wrap;
+  
+}
+#logo{
+    height: 100px;
+margin-right: auto;
+border-radius: 50%;
+
+}
+img:hover{
+    opacity: 90%;
+}
+a{
+    
+    text-decoration: none;
+    margin-right: 50px;
+    color:blanchedalmond;
+    font-weight: bolder;
+}
+.nav:hover{
+    text-decoration: underline;
+}
+h2{
+    color:beige;
+    margin-right: 300px;
+    margin-left: 220px;
+    font-style:oblique;
+    font-family:cursive;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: rgb(222, 214, 214);
+    text-align: center;
+}
+
+.horror{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hor{
+    height: 50vh;
+    
+
+}
